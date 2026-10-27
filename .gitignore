@@ -1,0 +1,6 @@
+# Rama pública: solo documentación y financiación. El parche va en Releases.
+*
+!README.md
+!.gitignore
+!.github/
+!.github/FUNDING.yml
