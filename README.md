@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/nintendo-64/mario-golf-64)**.
+
 Traducción al **castellano de España** de *Mario Golf* (Nintendo 64, Nintendo / Camelot, 1999), desde el inglés de la edición estadounidense.
 Se distribuye como **parche XDELTA**; necesitas tu propia copia del juego.
 
